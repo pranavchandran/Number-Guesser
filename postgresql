@@ -1,0 +1,6 @@
+I dont rember this command every time very hard to me
+
+pg_lsclusters
+sudo systemctl start postgresql
+sudo -u postgres psql
+
